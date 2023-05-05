@@ -1,0 +1,19 @@
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games Rental System 1.csprojAssemblyReference.cache
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Login.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Properties.Resources.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.SignUp.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games Rental System 1.csproj.GenerateResource.cache
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games Rental System 1.csproj.CoreCompileInputs.cache
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\bin\Debug\Games Rental System 1.exe.config
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\bin\Debug\Games Rental System 1.exe
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\bin\Debug\Games Rental System 1.pdb
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games Rental System 1.exe
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games Rental System 1.pdb
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.AdminLogin.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.UserLogin.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Games.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Browse.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.UserOptions.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Return.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.UpdateUser.resources
+D:\College\Year 2 term 2\Database\Games Rental System 1\Games Rental System 1\Games Rental System 1\obj\Debug\Games_Rental_System_1.Inquiries.resources
